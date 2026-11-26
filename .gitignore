@@ -1,0 +1,9 @@
+target/
+build/
+.gradle/
+.idea/
+*.iml
+.DS_Store
+.env
+*.env
+application-local.*
