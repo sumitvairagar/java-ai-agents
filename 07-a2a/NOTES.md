@@ -1,10 +1,12 @@
 # Notes
 
+Framework version / commit:
+
 ## Questions I want answered
 -
 
 ## Source walkthrough
-<!-- Follow one call. Class → method → file:line, with the version or commit. -->
+<!-- Follow one call. Class → method → file:line. -->
 -
 
 ## Experiments
